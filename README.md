@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...Laravel
 - 🤔 I’m looking for help with ... Laravel
 - 💬 Ask me about ... Nothing
-- 📫 How to reach me: ... https://twitter.com/mahad_ihasan
+- 📫 How to reach me: ... [Twitter]https://twitter.com/mahad_ihasan
 - 😄 Pronouns: ... He/Him 
 - ⚡ Fun fact: ... I am a Cyborg
 -->
