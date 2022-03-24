@@ -11,7 +11,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... FrontEnd
 - 🤔 I’m looking for help with ... React JS
 - 💬 Ask me about ... HTML & CSS
-- 📫 How to reach me: ... [Twitter]https://twitter.com/mahad_ihasan
+- 📫 How to reach me: ... [Twitter]https://twitter.com/mahad_ihasan 
+-                         [Email]nabil.the.fsd@gmail.com 
+-                         [facebook]https://www.facebook.com/nabilfsd
 - 😄 Pronouns: ... He/Him 
 - ⚡ Fun fact: ... I am a Learner
 
