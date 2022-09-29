@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... HTML & CSS
 - 📫 How to reach me: ...[Twitter]https://twitter.com/mahad_ihasan [Email]nabil.the.fsd@gmail.com [facebook]https://www.facebook.com/nabilfsd
 - 😄 Pronouns: ... He/Him 
-- ⚡ Fun fact: ... I am a Learner
 
 🔭 I’m currently working on ... HTML, CSS, React JS, Material UI.
 
