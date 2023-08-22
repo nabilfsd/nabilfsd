@@ -7,14 +7,14 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on ... Frontend Development
-- 🌱 I’m currently learning ... React JS
+- 🌱 I’m currently learning ... TypeScript & Tailwind CSS
 - 👯 I’m looking to collaborate on ... FrontEnd
 - 🤔 I’m looking for help with ... React JS
 - 💬 Ask me about ... HTML & CSS
 - 📫 How to reach me: ...[Twitter]https://twitter.com/nabilfsd [Email]nabil.the.fsd@gmail.com [facebook]https://www.facebook.com/nabilfsd
 - 😄 Pronouns: ... He/Him 
 
-🔭 I’m currently working on ... HTML, CSS, React JS, Material UI.
+🔭 I’m currently working on ... HTML, CSS, ReactJS, NextJS Material UI.
 
 
 
