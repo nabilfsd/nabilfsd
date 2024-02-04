@@ -7,7 +7,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nabil.the.fsd@gmail.com)](mailto:nabil.the.fsd@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nabilfsd/)](https://www.linkedin.com/in/nabilfsd)
 [![FaceBook](https://img.shields.io/badge/-FaceBook-blue?style=flat-square&logo=FaceBook&logoColor=white&link=https://www.facebook.com/nabilfsd/)](https://www.facebook.com/nabilfsd)
-[![CodePen](https://img.shields.io/badge/-codepen-black?style=flat-square&logo=codepen&logoColor=white&link=https://codepen.io/md-mehedi-hasan-nabil)](https://www.facebook.com/nabilfsd)
+[![CodePen](https://img.shields.io/badge/-codepen-black?style=flat-square&logo=codepen&logoColor=white&link=https://codepen.io/md-mehedi-hasan-nabil)](https://www.codepen.io/md-mehedi-hasan-nabil)
 [![Twitter](https://img.shields.io/badge/-twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/nabilfsd)](https://www.twitter.com/nabilfsd)
 
 
