@@ -1,6 +1,6 @@
 <h1>   
    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="75">&nbsp;
-   <strong> Howdy!, I am Mehedi Hasan Nabil </strong>
+   <strong>Mehedi Hasan Nabil </strong>
    <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="50" height="50">&nbsp;
 </h3>
 
