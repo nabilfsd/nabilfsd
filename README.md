@@ -4,6 +4,13 @@
    <img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" width="55" height="50">&nbsp; 
 </h3>
 
+### 👋 Hello, It's me 😎
+- 🌱 I'm a Software Engineer with 2+ years of experience in front-end development using HTML5, CSS3, SCSS, Material UI, TailwindCSS, ReactJS, NextJS and Redux-Toolkit.
+- 🛠️ I’m currently learning TypeScript.
+- 💬 Ask me about ```HTML5```, ```CSS3``` and ```JavaScript```.
+- 🚀 Constantly striving to expand my skill set and stay up-to-date with new technologies.
+- 🔎 <small>Search ```nabilfsd``` in google to know more about me</small>
+
 ### 📬 Find me at
 [![Github](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/nabilfsd/)](https://github.com/nabilfsd/) 
 [![Gmail](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nabil.the.fsd@gmail.com)](mailto:nabil.the.fsd@gmail.com)
@@ -11,12 +18,6 @@
 [![FaceBook](https://img.shields.io/badge/-FaceBook-blue?style=flat-square&logo=FaceBook&logoColor=white&link=https://www.facebook.com/nabilfsd/)](https://www.facebook.com/nabilfsd)
 [![CodePen](https://img.shields.io/badge/-codepen-black?style=flat-square&logo=codepen&logoColor=white&link=https://codepen.io/md-mehedi-hasan-nabil)](https://www.codepen.io/md-mehedi-hasan-nabil)
 [![Twitter](https://img.shields.io/badge/-twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/nabilfsd)](https://www.twitter.com/nabilfsd)
-
-
-### A little about me...
-Experienced Software Engineer with over 2+ years of experience in front-end development using CSS, Material UI, ReactJS, NextJS and Redux. Proficient in JavaScript and CSS.
-Constantly striving to expand my skill-set and stay upto-date with new technologies. Committed to delivering high-quality, user-centric web solutions.
-
 
 ### Languages
 
