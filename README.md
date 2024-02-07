@@ -9,7 +9,8 @@
 - 🛠️ I’m currently learning TypeScript.
 - 💬 Ask me about ```HTML5```, ```CSS3``` and ```JavaScript```.
 - 🚀 Constantly striving to expand my skill set and stay up-to-date with new technologies.
-- 🔎 <small>Search ```nabilfsd``` in google to know more about me</small>
+- 📫 How to reach me: [[Gmail]](mailto:nabil.the.fsd@gmail.com)
+- 🔎 Search ```nabilfsd``` in google to know more about me
 
 ### 📬 Find me at
 [![Github](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/nabilfsd/)](https://github.com/nabilfsd/) 
