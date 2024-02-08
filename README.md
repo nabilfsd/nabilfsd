@@ -41,5 +41,7 @@
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nabilfsd&show_icons=true&theme=gotham" alt="nabilfsd" />
-  <!-- wi*quL3fcV --><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilfsd&show_icons=true&theme=gotham" alt="nabilfsd" /></a>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nabilfsd&show_icons=true&theme=gotham" alt="nabilfsd" /> &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilfsd&show_icons=true&theme=gotham" alt="nabilfsd" />
+</p>
