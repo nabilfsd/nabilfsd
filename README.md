@@ -5,8 +5,9 @@
 </h3>
 
 ### 👋 Hello, It's me 😎
-- 🌱 I'm a Software Engineer with 2+ years of experience in front-end development using HTML5, CSS3, SCSS, Material UI, TailwindCSS, ReactJS, NextJS and Redux-Toolkit.
-- 🛠️ I’m currently learning TypeScript.
+- 🌱 I'm a Software Engineer with 2+ years of experience in front-end development.
+- 🛠️ Mostly working with HTML5, CSS3, SCSS, Material UI, TailwindCSS, ReactJS, NextJS and Redux-Toolkit.
+- 🎯 I’m currently learning TypeScript.
 - 💬 Ask me about ```HTML5```, ```CSS3``` and ```JavaScript```.
 - 🚀 Constantly striving to expand my skill set and stay up-to-date with new technologies.
 - 📫 How to reach me: [[Gmail]](mailto:nabil.the.fsd@gmail.com)
