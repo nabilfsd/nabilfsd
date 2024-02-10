@@ -1,6 +1,6 @@
 <h1>   
    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643"  width="75" height="50">&nbsp;
-   <strong>Mehedi Hasan Nabil </strong>
+   <strong>Mehedi Hasan Nabil </strong>&nbsp;
    <img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" width="55" height="50">&nbsp; 
 </h3>
 
@@ -42,6 +42,27 @@
 📈 my github stats
 
 <p>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilfsd&show_icons=true&theme=gotham" alt="nabilfsd" />&nbsp; &nbsp; &nbsp; &nbsp;
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=nabilfsd&show_icons=true&theme=gotham" alt="nabilfsd" />
+   <picture>
+      <source
+       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilfsd&show_icons=true&theme=gotham"
+       media="(prefers-color-scheme: dark)"
+     />
+     <source
+       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilfsd&show_icons=true"
+       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+     />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilfsd&show_icons=true&theme=gotham" alt="nabilfsd" />
+   </picture>&nbsp; &nbsp; &nbsp; &nbsp;
+
+   <picture>
+      <source
+         srcset="https://github-readme-streak-stats.herokuapp.com?user=nabilfsd&show_icons=true&theme=gotham"
+         media="(prefers-color-scheme: dark)"
+      />
+      <source
+         srcset="https://github-readme-streak-stats.herokuapp.com?user=nabilfsd&show_icons=true"
+         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=nabilfsd&show_icons=true&theme=gotham" alt="nabilfsd" />
+   </picture>
 </p>
